@@ -117,5 +117,5 @@ The project consists of **documenting, step by step, the installation, configura
 ## Weekly Documentation 📆
 
 - [Week 1: Installation and Testing](Week1/Installation-and-testing.md) ✅
-- [Week 2](Coming soon)
+- [Week 2: SSH Configuration](Week2/SSH-Configuration.md) ✅
 - [Week 3](Coming soon)
