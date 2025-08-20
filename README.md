@@ -57,7 +57,7 @@ El proyecto consiste en **documentar, paso a paso, la instalación, configuraci�
 ## Documentación Semanal 📆
 
 - [Semana 1: Instalación y prueba](Week1/Installation-and-testing.md) ✅
-- Semana 2 (Pronto)
+- [Semana 2: Configuración de SSH](Week2/SSH-Configuration.md) ✅
 - Semana 3 (Pronto)
 
 
