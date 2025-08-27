@@ -30,6 +30,7 @@ Este comando genera un par de claves SSH, una privada y una pública, incluimos 
 
 ### Paso 2: Copiar la clave pública al servidor
 
+
 Ejecutamos dir 
 ```bash
 C:\Users\nombre-de-usuario\.ssh
