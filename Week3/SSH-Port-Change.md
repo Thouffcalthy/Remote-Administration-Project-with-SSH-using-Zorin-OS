@@ -1,6 +1,7 @@
 **Read this in other languages**
--[Español](#cambio-de-puerto-y-administración-de-usuarios)
--[English]
+
+- [Español](#cambio-de-puerto-y-administración-de-usuarios)
+- [English]
 
 # Cambio de Puerto y Administración de usuarios
 
