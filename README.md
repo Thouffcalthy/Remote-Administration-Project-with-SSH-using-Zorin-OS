@@ -58,7 +58,7 @@ El proyecto consiste en **documentar, paso a paso, la instalación, configuraci�
 
 - [Semana 1: Instalación y prueba](Week1/Installation-and-testing.md) ✅
 - [Semana 2: Configuración de SSH](Week2/SSH-Configuration.md) ✅
-- Semana 3 (Pronto)
+- [Semana 3: Cambio de puerto y Administración de usuarios](Week3/SSH-Port-Change.md)✅
 
 
 # Remote Administration Project with SSH
